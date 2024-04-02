@@ -1,9 +1,9 @@
 # Task-Perform
 
-##Descriptions
+## Descriptions
 This project implements API calls using the Retrofit library, incorporating the MVVM architecture for a clean and organized codebase. It utilizes the Navigation component for activity communication and employs a repository for managing business logic.
 
-##Installation
+## Installation
  1. Clone the repository: git clone "https://github.com/Roshanthecoder/Task-Perform.git"
  2. You can paste this link into the version control of Android Studio while creating the project.
  3. Wait for the gradle compilation.
@@ -13,7 +13,7 @@ This project implements API calls using the Retrofit library, incorporating the 
 
 
 
-##Usage
+## Usage
 The project provides dummy data retrieved from mockapi.io.
 
 
@@ -25,6 +25,6 @@ The project provides dummy data retrieved from mockapi.io.
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-##Credits
+## Credits
 Mockapi.io: Special thanks for providing an easy way to generate dummy data.
 Feel free to add any additional lines or rearrange them according to your preference.
